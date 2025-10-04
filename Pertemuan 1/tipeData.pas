@@ -28,7 +28,7 @@ begin
   write('Apakah kamu mahasiswa baru? (ya/tidak) : ');
   readln(jawaban);
 
-  // untuk boolean
+  // boolean
   if (jawaban = 'ya') or (jawaban = 'Ya') then
     logika := true
   else

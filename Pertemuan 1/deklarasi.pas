@@ -4,7 +4,7 @@ uses crt;
 type
   Tnama = string; // kita lagi ganti nama tipe data
 
-var // variabel --> simpen nilai yang berubah ubah
+var // variabel --> simpan nilai yang berubah ubah
   // nama: string;
   // nama: Tnama;
   nama: Tnama;

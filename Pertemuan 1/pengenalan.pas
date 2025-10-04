@@ -3,7 +3,7 @@ uses crt;
 
 {define}
 var
-  usia: integer; {WAJIB bilangan bulat}
+  usia: integer; {wajib bilangan bulat}
 
 begin
   clrscr; {cuci otak}

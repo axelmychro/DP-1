@@ -1,6 +1,7 @@
 program Lingkaran;
 uses crt;
 
+// konstanta
 const
   pi = 3.14;
 

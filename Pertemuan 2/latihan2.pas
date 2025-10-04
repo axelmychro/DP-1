@@ -1,6 +1,7 @@
 program LuasSegitiga;
 uses crt;
 
+// variabel
 var
   alas, tinggi: real;
   luas: real;

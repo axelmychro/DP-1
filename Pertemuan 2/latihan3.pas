@@ -6,6 +6,7 @@ var
   nilaiMurniKeaktifan, nilaiKeaktifan, nilaiMurniTugas, nilaiTugas, nilaiMurniUjian, nilaiUjian, nilaiAkhir: real;
 
 begin
+  // cuci otak
   clrscr;
 
   // input

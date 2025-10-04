@@ -57,4 +57,6 @@ begin
   writeln(7 shl 4);
   writeln(72 shl 1);
   writeln(56 shr 2);
+
+  // banyak x pun
 end.
